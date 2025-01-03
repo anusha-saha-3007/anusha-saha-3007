@@ -4,7 +4,9 @@
 
 ## About
 
-A highly motivated Computer Science and Data Science fresher, skilled in web development and UI/UX design. Passionate about creating intuitive, user-centric digital experiences, with a strong foundation in modern web technologies and design principles.
+A highly motivated Data Science fresher, basic knowledge in web development and UI/UX design. Passionate about
+learning new technologies with an understanding of modern web technologies and design principles.
+
 
 ## Recent Projects
 
@@ -15,6 +17,6 @@ A highly motivated Computer Science and Data Science fresher, skilled in web dev
 - Explorify | Figma
   - Designed a Travel and Itenary Planner application
   - Designed intuitive user interfaces in Figma, focusing on usability, aesthetics, and accessibility to enhance user experience.
-  - Created wireframes, prototypes, and high-fidelity mockups, ensuring seamless collaboration with developers and stakeholders for project implementation.
-  - Developed a consistent design system, including reusable components and style guides, to maintain visual harmony across the application.
-  - Optimized workflows and design layouts for responsive web and mobile interfaces, ensuring compatibility across multiple devices and screen sizes.
+  - Created wireframes, prototypes, ensuring seamless collaboration with developers for project implementation.
+  - Developed a consistent design system, style guides, to maintain visual harmony across the application
+  - Optimized workflows and design layouts to ensure compatibility across multiple devices and screen sizes.
