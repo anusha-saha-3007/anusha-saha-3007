@@ -4,7 +4,7 @@
 
 ## About
 
-A highly motivated Data Science fresher, basic knowledge in web development and UI/UX design. Passionate about
+A highly motivated Data Science fresher,with basic knowledge in web development and UI/UX design. Passionate about
 learning new technologies with an understanding of modern web technologies and design principles.
 
 
