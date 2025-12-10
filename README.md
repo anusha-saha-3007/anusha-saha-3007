@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Anusha
 
-### Web Development and UI/UX Enthusiast
+### Web Development and Machine Learning Enthusiast
 
 ## About
 
