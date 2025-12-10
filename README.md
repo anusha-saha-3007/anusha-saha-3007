@@ -26,6 +26,7 @@ learning new technologies with an understanding of modern web technologies and d
   - Implemented JWT-based role-based access control for secure multi-user operations.
   - Used Celery and Redis for background tasks, caching, and performance optimization.
   - Enabled timed quizzes, API testing with Postman, and version control using Git/GitHub.
+  👉 [GitHub Profile]([https://github.com/23f2000732](https://github.com/23f2000732/quizmaster2))
     
 - Explorify | Figma
   - Designed a Travel and Itenary Planner application
